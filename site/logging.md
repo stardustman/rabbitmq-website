@@ -686,8 +686,8 @@ Below is a list of published events.
 
 [Queue](queues.html), Exchange and Binding events:
 
- * `queue.deleted`
  * `queue.created`
+ * `queue.deleted`
  * `exchange.created`
  * `exchange.deleted`
  * `binding.created`
